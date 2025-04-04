@@ -9,10 +9,10 @@ No, the lock file is temporary and is removed after the operation completes.
 
 ## State File
 
-![State File](S3-bucket.jpg"StateFileExample")
-![State File](State-file.jpg"StateFileExample")
+![State File](S3-bucket.jpg)
+![State File](state-file.jpg)
 
 ## Lock File
 
-![Lock File and State File](terraform-plan1.png"LockFileExample")
-![Lock File and State File](terraform-plan2.png"LockFileExample")
+![Lock File and State File](terraform-plan1.png)
+![Lock File and State File](terraform-plan2.png)
